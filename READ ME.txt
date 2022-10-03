@@ -1,0 +1,12 @@
+Hello!
+
+Our game is called Animal Hunter, and the point is to hunt animals.
+You have a limited amount of ammo and once you run out the level switches.
+
+Unfortunately due to a bug we were unable to solve, in order to properly hiy an animal you must aim at its feet (or the space between its front and back legs)
+This is due to the center point of the models being located there in the 3D modeling engine, 
+and we were unable to find a way to fix it with the limited time alotted. 
+
+Otherwise, everything works as intended! We hope you enjoy!
+
+-Corbin, Clifton, and Amber
